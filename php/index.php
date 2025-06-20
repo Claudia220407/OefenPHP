@@ -8,12 +8,12 @@
     <title>Index</title>
 </head>
 <body>
-    <a href="/insert.php">Go to Insert</a> <br><br>
+    <a href="../php/insert.php">Go to Insert</a> <br><br>
 </body>
 </html>
 
 <?php
-include "db/database.php";
+include "../db/database.php";
 
 try {
 
